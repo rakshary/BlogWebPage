@@ -1,0 +1,42 @@
+.max-width1 {
+    max-width: 80vw;
+}
+
+.max-width2 {
+    max-width: 60vw;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.btn{
+padding: 0px 10px;
+border:2px solid black;
+border-radius: 10px;
+font-size: 14px;
+cursor: pointer;
+
+}
+.btn:hover {
+    color: white;
+    background: var(--main-bg-color);
+  }
+
+.form-in{
+    padding: 0px 7px;
+    font-size: 16px;
+    border:3px solid black;
+    border-radius: 5px;
+    margin:0 13px;
+}
+
+.form-box input, textarea{
+    width: 52vw;
+    padding: 0px 6px;
+    margin: 7px 0;
+    font-size: 18px;
+    font-family: var(--font1);
+    border: 2px solid var(--main-bg-color);
+      border-radius: 5px;
+  }
